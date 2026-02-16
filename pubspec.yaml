@@ -5,7 +5,6 @@ homepage: https://github.com/freddydrodev/applite_image_picker
 repository: https://github.com/freddydrodev/applite_image_picker
 issue_tracker: https://github.com/freddydrodev/applite_image_picker/issues
 documentation: https://github.com/freddydrodev/applite_image_picker#readme
-publish_to: "https://pub.dev"
 
 environment:
   sdk: ^3.9.2
@@ -34,15 +33,10 @@ license: MIT
 topics:
   - image
   - picker
-  - image_picker
   - gallery
   - camera
-
-# Additional metadata
-platforms:
-  - android
-  - ios
-  - web
+  - applite
+  - appliteui
 
 flutter:
   # No assets or fonts by default, add here if needed
